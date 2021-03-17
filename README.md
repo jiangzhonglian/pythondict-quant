@@ -22,8 +22,18 @@
 
 8.[Python 量化投资实战教程(8) - A股回测“孕线”策略](https://pythondict.com/quant/quant-a-stock-backtrader-harami/) - 2020/09/08
 
+9.[Python 量化投资实战教程(9) - 自定义MySQL数据流](https://pythondict.com/quant/backtrader-custom-mysql-datafeed/) - 2020/11/12
+
+9.[Python 量化投资实战教程(9) - 可转债薅羊毛策略](https://pythondict.com/quant/convert_bond/) - 2021/03/07
+
 基于[Backtrader](https://github.com/mementum/backtrader)，感谢开发者。
 
 Python实用宝典：[pythondict.com](https://pythondict.com)，欢迎关注Python实用宝典公众号阅读最新的文章。
 
 如无意外，本系列教程一周一更。
+
+## 问题反馈
+1.如遇到`ImportError: cannot import name 'warnings'`错误，请安装matplotlib-3.2.2
+```
+pip install matplotlib==3.2.2
+```
